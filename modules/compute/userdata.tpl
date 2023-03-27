@@ -1,5 +1,5 @@
 #!/bin/bash
-sleep 20s
+sleep 30s
 sudo yum update -y
 sudo yum install httpd -y
 sudo yum install wget -y
